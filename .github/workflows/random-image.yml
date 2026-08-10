@@ -8,6 +8,8 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # ← 加这一行，允许修改仓库内容
     steps:
       - uses: siddharth2016/update-readme-image@main
         with:
