@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**zhengliyuan123/zhengliyuan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td width="60%" valign="middle">
+      <h2>你好，我是zhengliyuan123</h2>
+      <p>主要用 Python 和 C++</p>
+      <p>联系我 dikomakifie@hotmail.com</p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <!--START_SECTION:update_image-->
+      <img src=".github/images/1.jpg" alt="0" height="220">
+      <!--END_SECTION:update_image-->
+    </td>
+  </tr>
+</table>
