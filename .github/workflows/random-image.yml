@@ -14,3 +14,5 @@ jobs:
       - uses: siddharth2016/update-readme-image@main
         with:
           IMG_ALT: "随机照片"
+          WIDTH: auto
+          HEIGHT: 200px
