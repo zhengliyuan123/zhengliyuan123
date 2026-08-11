@@ -7,7 +7,7 @@
     </td>
     <td width="40%" align="center" valign="middle" style="padding:30px;">
       <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/zhengliyuan123/zhengliyuan123/main/.github/images/image1.png height="600" align=right alt=随机照片 />
+<img src=https://raw.githubusercontent.com/zhengliyuan123/zhengliyuan123/main/.github/images/image2.png height=180px width=180px align=right alt=随机照片 />
 <!--END_SECTION:update_image-->
     </td>
   </tr>
