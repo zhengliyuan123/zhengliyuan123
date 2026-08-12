@@ -2,7 +2,7 @@
   <tr>
     <td width="60%" valign="middle" style="padding:40px;">
       <h2 style="font-size:36px; margin:0 0 10px 0;">这是zhengliyuan123的Github主页</h2>
-      <p style="font-size:22px; margin:8px 0;">主用Python和C++</p>
+      <p style="font-size:22px; margin:8px 0;">主要用Python和C++</p>
     </td>
     <td width="40%" align="center" valign="middle" style="padding:30px;">
       <!--START_SECTION:update_image-->
